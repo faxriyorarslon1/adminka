@@ -1,0 +1,2 @@
+# adminka
+adminka uchun backend
